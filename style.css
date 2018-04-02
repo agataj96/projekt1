@@ -1,0 +1,87 @@
+body {
+  margin: 0px;
+}
+
+.quote {
+  text-align: center;
+  color: #8c8c8c;
+  font-family: Courier;
+  font-size: 30px;
+}
+
+.quote-text {
+  margin-bottom: -80px;
+  font-size: 50px;
+}
+
+.navigation-button {
+  color:#ffffff;
+  border-radius: 5px;
+  border: 2px;
+  background-color: #a3c2c2;
+  text-align: center;
+  margin: 20px;
+  font-size: 20px;
+  font-family: Courier;
+  margin-bottom: 10px;
+  height: 40px;
+  width: 150px;
+  margin-left: 3px;
+}
+
+.main-space {
+  font-family: Courier;
+  font-size: 50px;
+  text-align: center;
+  color: #262626;
+}
+
+h1 {
+  font-size: 700px;
+}
+
+.main-information {
+  font-family: Courier;
+  font-size: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+h2 {
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: -70px;
+  color: #8c8c8c;
+}
+
+ul {
+  font-size: 20px;
+  padding: 80px;
+}
+
+p {
+  font-size: 20px;
+  padding: 80px;
+}
+
+.icon {
+  margin-right: 30px;
+}
+
+.btn-sm {
+  background: linear-gradient(to bottom, #a3c2c2 0%, #ffccff 100%);
+  position: relative;
+  left: 180px;
+  color: #ffffff;
+}
+
+.gallery {
+  margin-top:100px;
+  justify-content: center;
+  margin-left: 110px;
+}
+
+.footer {
+  text-align: center;
+  font-size: 10px;
+}
