@@ -70,18 +70,22 @@ p {
 
 .btn-sm {
   background: linear-gradient(to bottom, #a3c2c2 0%, #ffccff 100%);
-  position: relative;
-  left: 180px;
   color: #ffffff;
 }
 
-.gallery {
-  margin-top:100px;
+.gallery > img {
+  margin-top: 100px;
   justify-content: center;
-  margin-left: 110px;
 }
 
 .footer {
   text-align: center;
   font-size: 10px;
+}
+
+.author {
+  background: #ffffff;
+}
+
+.btn-sm:hover { color: blueviolet;
 }
